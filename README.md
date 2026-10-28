@@ -42,7 +42,7 @@ Plaintext
 Clone o repositório:
 
 Bash
-git clone https://github.com/seu-usuario/unisa-lattes-hub.git
+git clone https://unisa-lattes-hub.lovable.app/
 cd unisa-lattes-hub
 Instale as dependências:
 
